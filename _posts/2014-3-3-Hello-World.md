@@ -3,14 +3,14 @@ layout: post
 title: 10 days in Alaska: The Perfect Itinerary!
 ---
 
-### Day 1: Our Coffee shop hunt:
+#### Day 1: Our Coffee shop hunt:
 K and I landed in Anchorage, AK in an early September afternoon, rented a car and headed straight to Denali National Park, which is a 4-5 hour drive from Anchorage. Because of numerous flight delays and cancellations, we were sleep deprived and decided to grab a coffee for the long drive ahead. At this point, we were already 2 hours into our drive. When I opened the google maps to find the nearest Starbucks, well, guess what, only 100 miles away was the first coffee place. There, I realized "Welcome to Alaska!"
-<image>
+![A lone coffee shop]({{ site.baseurl }}/images/coffeeshop.jpg "A lone coffee shope")
 K was disappointed for not getting a coffee for about a half hour until we found a lone coffee shop in the middle of no-where.
 <image>
 The drive to Denali was completely garnished with fall colors. Everyone warned us for going in September because of continuous rain but it was a total hit for us. After reaching our cabin, we fell in love with the place: it had an amazing view with some romantic elements. We took some pictures and finally crashed to get ready for the adventures ahead.
 
-### Day 2: Trip to Wonder Lake:
+#### Day 2: Trip to Wonder Lake:
 We woke up at 4 am to board the shuttle that drives inside the Denali Park. This shuttle takes you to Wonder Lake which lies in the dead-end. The round trip is about 12 hours, and you are allowed to get on and off the bus anytime.
 <image>
 The sight of Denali was mind blowing and a complete visual treat.
@@ -84,3 +84,5 @@ K did twice, while I was still catching up on my breadth. Overall, we had our do
 ### Day 10: The end of trip:
 
 We drove back to Anchorage from Palmer and reached around lunch time. We finished our lunch in the downtown area and decided to do our last hike at Anchorage Coastal Trail. As the day passed by, we were so upset to leave the place, we finally headed towards the airport to catch our flight only realizing our trip is coming to an end. While I sit and write this, the memories come rushing and I can definitely say it's our most favorite trip of the year. 
+
+-Preethi Parasurama
