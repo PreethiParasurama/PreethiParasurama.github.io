@@ -84,7 +84,7 @@ After our cruise, we drove towards Palmer, AK and stayed in an Airbnb. I returne
 #### Day 9: Some Adventures:
 This is the day I have been waiting for from the beginning of the trip: Glacier hiking was one of my bucket list items. Before our Glacier hiking, we went for a small hike in Hatcher Pass near Palmer, where we saw abandoned Gold mine knows as Independence Mine.
 
-![Denali](/images/hatcherpass.jpg)
+![Denali](/images/hatchespass.jpg)
 
 The abandoned Gold mine trail.
 
