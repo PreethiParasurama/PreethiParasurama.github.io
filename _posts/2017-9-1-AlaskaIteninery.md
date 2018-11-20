@@ -20,7 +20,7 @@ The sight of Denali was mind blowing and a complete visual treat.
 
 ![Denali](/images/DSC_0356.NEF.jpg)
 
-We also spotted a moose family having their breakfast, bears binging on berries, and dall sheeps descending down the hill on the way to wonder lake. Much excitement!
+We also spotted a moose family roaming freely, bears binging on berries, and dall sheeps descending down the hill on the way to wonder lake. Much excitement!
 
 #### Day 3: Hiking:
 We started our day with heavy breakfast at Rose's Cafe, Healy and hit the roads for hiking. If you are planning to hike inside the park, carry a bear spray and bells so the bears won't be surprised.  K bought pepper spray instead because he thought it was much cheaper, and it will not save you if a bear encounters you.
