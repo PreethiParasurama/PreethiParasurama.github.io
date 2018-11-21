@@ -100,6 +100,8 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
+  text-align: center;
+  font-size:.8rem;
 }
 
 strong, b {
@@ -115,7 +117,7 @@ img {
 .image-caption {
   text-align: center;
   font-size: .8rem;
-  color: $light-grey;
+  color: $grey;
 }
 
 
