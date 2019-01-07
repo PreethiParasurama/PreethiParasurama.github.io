@@ -17,7 +17,7 @@ Seattle took us by surprise with crystal clear blue sky when we visited for labo
 ![hoh](/images/hoh.jpg)
 *Surround yourself with lushy greens at Hoh Rainforest*
 
-![Ruby Beach](/images/ruby1.jpg)
+![Ruby Beach](/images/ruby.jpg)
 *Indulge in amazing views*
 
 ![Soul](/images/soul.jpg)
